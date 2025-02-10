@@ -1,0 +1,10 @@
+de/freerider/endpoints/CustomersEPDoc.class
+de/freerider/data_jdbc/DataAccessException$Conflict.class
+de/freerider/data_jdbc/DataAccessException$NotFound.class
+de/freerider/endpoints/CustomersRestController.class
+de/freerider/data_jdbc/DataAccessException.class
+de/freerider/endpoints/CustomersEP.class
+de/freerider/data_jdbc/DataAccessException$BadRequest.class
+de/freerider/endpoints/CustomersRestController$1.class
+de/freerider/data_jdbc/DataAccessException$Code.class
+de/freerider/application/SwaggerConfig.class
