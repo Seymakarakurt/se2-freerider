@@ -45,5 +45,4 @@ Falls Änderungen am Code vorgenommen wurden, kann das Projekt mit folgendem Bef
 mvn clean package
 ```
 
-## 📜 Lizenz
-Dieses Projekt steht unter der **MIT-Lizenz**.
+Entwickelt von Seyma Karakurt
